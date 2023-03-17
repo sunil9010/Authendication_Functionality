@@ -1,0 +1,12 @@
+/* Write your CSS code here */
+.home {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.hm{
+    font-family:"Roboto";
+    font-weight: 600;
+    
+}
